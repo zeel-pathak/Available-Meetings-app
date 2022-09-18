@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .font-prompt {
+    font-family: "Prompt";
+  }
+
+  .color-mint {
+    background-color: #61ffca;
+  }
+}
